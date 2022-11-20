@@ -1,0 +1,14 @@
+{
+  "name": "simplepay-core-v2",
+  "version": "0.0.6",
+  "author": "balint",
+  "dependencies": {
+    "crypto-js": "^4.1.1",
+    "crypto-random-string": "^3.3.1",
+    "date-fns": "^2.28.0"
+  },
+  "devDependencies": {},
+  "peerDependencies": {
+    "node-fetch": "^2.6.7"
+  }
+}
